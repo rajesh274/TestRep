@@ -11,6 +11,8 @@ Key things to learn
 *Dev Ops
 *Git Hub
 *Python
+*C#
+*Oracle
 
 Thank You All :)
    
