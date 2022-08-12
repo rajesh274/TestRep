@@ -10,4 +10,7 @@ Associates: N Ray / R Pradhan
 Key things to learn
 *Dev Ops
 *Git Hub
+*Python
+
+Thank You All :)
    
