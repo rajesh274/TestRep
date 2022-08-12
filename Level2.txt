@@ -6,4 +6,8 @@ Jindal Stainless Jajpur
 
 Lead: P Choudhury  / D Ghosal
 Associates: N Ray / R Pradhan
+
+Key things to learn
+*Dev Ops
+*Git Hub
    
